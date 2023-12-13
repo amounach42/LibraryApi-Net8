@@ -1,0 +1,31 @@
+# Ubuntu temporary files
+*~
+*.swp
+
+# OS-generated files
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Node.js
+node_modules/
+
+# Compiled Java classes
+*.class
+
+# Compiled C++ files
+*.out
+
+# IDE files
+.idea/
+.vscode/
+*.iml
